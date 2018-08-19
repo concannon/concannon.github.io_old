@@ -2,30 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Explorations in Data</title>
-    <link>https://concannon.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Explorations in Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://concannon.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bad Religion Lyric Sentiment Analysis</title>
-      <link>https://concannon.github.io/2018/07/bad-religion-lyric-sentiment-analysis/</link>
+      <link>/2018/07/bad-religion-lyric-sentiment-analysis/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://concannon.github.io/2018/07/bad-religion-lyric-sentiment-analysis/</guid>
+      <guid>/2018/07/bad-religion-lyric-sentiment-analysis/</guid>
       <description>Bad Religion is a punk band that formed in the Los Angeles area in the early 1980s and continues to make great music and tour today. Since hearing their music almost 20 years ago, I have been an avid follower. Over the course of 30 plus years, and over 20 albums, there are a wealth of lyrics to digest. And this is no ordinary punk band - the group deserves and relishes in the label of thesaurus punk.</description>
     </item>
     
     <item>
+      <title>Criminal Justice Dissertation Topic Analysis</title>
+      <link>/2016/11/criminal-justice-dissertation-topic-analysis/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/11/criminal-justice-dissertation-topic-analysis/</guid>
+      <description>IntroductionMonths ago, I was perusing the American Society of Criminology’s website and came across a list of recent dissertations, including topics, authors, and instutitions.
+The list was interesting to me for a few reasons. One, I need to begin thinking about a dissertation topic, and I would like to get a sense of recent dissertations, without having to actually read them.</description>
+    </item>
+    
+    <item>
       <title>Hello R Markdown</title>
-      <link>https://concannon.github.io/2015/07/hello-r-markdown/</link>
+      <link>/2015/07/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://concannon.github.io/2015/07/hello-r-markdown/</guid>
+      <guid>/2015/07/hello-r-markdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -33,10 +43,10 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>Welcome to Tranquilpeak 0.4.3-BETA</title>
-      <link>https://concannon.github.io/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</link>
+      <link>/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</link>
       <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://concannon.github.io/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</guid>
+      <guid>/2015/06/welcome-to-tranquilpeak-0.4.3-beta/</guid>
       <description>&lt;p&gt;Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
 &lt;/p&gt;</description>
     </item>

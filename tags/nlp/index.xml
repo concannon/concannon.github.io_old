@@ -2,22 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nlp on Explorations in Data</title>
-    <link>https://concannon.github.io/tags/nlp/</link>
+    <link>/tags/nlp/</link>
     <description>Recent content in Nlp on Explorations in Data</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://concannon.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bad Religion Lyric Sentiment Analysis</title>
-      <link>https://concannon.github.io/2018/07/bad-religion-lyric-sentiment-analysis/</link>
+      <link>/2018/07/bad-religion-lyric-sentiment-analysis/</link>
       <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://concannon.github.io/2018/07/bad-religion-lyric-sentiment-analysis/</guid>
+      <guid>/2018/07/bad-religion-lyric-sentiment-analysis/</guid>
       <description>Bad Religion is a punk band that formed in the Los Angeles area in the early 1980s and continues to make great music and tour today. Since hearing their music almost 20 years ago, I have been an avid follower. Over the course of 30 plus years, and over 20 albums, there are a wealth of lyrics to digest. And this is no ordinary punk band - the group deserves and relishes in the label of thesaurus punk.</description>
+    </item>
+    
+    <item>
+      <title>Criminal Justice Dissertation Topic Analysis</title>
+      <link>/2016/11/criminal-justice-dissertation-topic-analysis/</link>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/11/criminal-justice-dissertation-topic-analysis/</guid>
+      <description>IntroductionMonths ago, I was perusing the American Society of Criminology’s website and came across a list of recent dissertations, including topics, authors, and instutitions.
+The list was interesting to me for a few reasons. One, I need to begin thinking about a dissertation topic, and I would like to get a sense of recent dissertations, without having to actually read them.</description>
     </item>
     
   </channel>
